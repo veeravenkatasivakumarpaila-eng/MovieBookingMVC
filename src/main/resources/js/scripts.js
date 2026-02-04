@@ -1,4 +1,3 @@
-
 document.addEventListener('DOMContentLoaded', function() {
     // Seat selection logic
     const seats = document.querySelectorAll('.seat.available');
@@ -12,4 +11,5 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 });
+
 
