@@ -1,20 +1,20 @@
   MovieBookingMVC
   
 │
-├── Controllers/
-│   └── Handles HTTP requests and responses
+├── Controllers
+│   ─ Handles HTTP requests and responses
 
 │
-├── Models/
-│   └── database entities
+├── Models
+│   ─ database entities
 
 │
-├── Views/
-│   └── UI pages ( JSP )
+├── Views
+│   ─ UI pages ( JSP )
 
 │
-├──  public/
-│   └── Static files (CSS, JS, images)
+├──  public
+│   ─ Static files (CSS, JS, images)
 
 │
 └── README.md
