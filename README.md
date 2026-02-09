@@ -2,19 +2,18 @@
   
 │
 ├── Controllers
-│   ─ Handles HTTP requests and responses
+   ─ Handles HTTP requests and responses
 
 │
 ├── Models
-│   ─ database entities
+   ─ database entities
 
 │
 ├── Views
-│   ─ UI pages ( JSP )
+   ─ UI pages ( JSP )
 
 │
 ├──  public
-│   ─ Static files (CSS, JS, images)
+   ─ Static files (CSS, JS, images)
 
-│
 └── README.md
